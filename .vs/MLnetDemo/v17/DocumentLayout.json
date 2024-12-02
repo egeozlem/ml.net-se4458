@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ege\\Desktop\\MLnetDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF294A68-1D21-4083-B066-22EDB8D8CF28}|MLnetDemo\\MLnetDemo.csproj|c:\\users\\ege\\desktop\\mlnetdemo\\mlnetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF294A68-1D21-4083-B066-22EDB8D8CF28}|MLnetDemo\\MLnetDemo.csproj|solutionrelative:mlnetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF294A68-1D21-4083-B066-22EDB8D8CF28}|MLnetDemo\\MLnetDemo.csproj|c:\\users\\ege\\desktop\\mlnetdemo\\mlnetdemo\\sentimentmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{AF294A68-1D21-4083-B066-22EDB8D8CF28}|MLnetDemo\\MLnetDemo.csproj|solutionrelative:mlnetdemo\\sentimentmodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SentimentModel.mbconfig",
+              "DocumentMoniker": "C:\\Users\\Ege\\Desktop\\MLnetDemo\\MLnetDemo\\SentimentModel.mbconfig",
+              "RelativeDocumentMoniker": "MLnetDemo\\SentimentModel.mbconfig",
+              "ToolTip": "C:\\Users\\Ege\\Desktop\\MLnetDemo\\MLnetDemo\\SentimentModel.mbconfig",
+              "RelativeToolTip": "MLnetDemo\\SentimentModel.mbconfig",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-12-02T13:09:13.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ege\\Desktop\\MLnetDemo\\MLnetDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MLnetDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Ege\\Desktop\\MLnetDemo\\MLnetDemo\\Program.cs",
+              "RelativeToolTip": "MLnetDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:28:32.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
